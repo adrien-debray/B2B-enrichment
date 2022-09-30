@@ -1,4 +1,4 @@
-# self-containedAsset: B2B-Enrichment V1
+# self-contained Asset: B2B leads Enrichment
 
 ## Intro
 
@@ -6,13 +6,13 @@ This page is a large documentation of the B2B-enrichment project.
 
 The structure is as follows:
 
-In [section 1](https://www.notion.so/self-containedAsset-B2B-Enrichment-V1-8561c8834bcd4267a8993c2e849f1eb5), the context of the project is described, and the goals are stated. 
+In section 1, the context of the project is described, and the goals are stated. 
 
-[Section 2](https://www.notion.so/self-containedAsset-B2B-Enrichment-V1-8561c8834bcd4267a8993c2e849f1eb5) explains the main deliverables. The automated workflow and the results on the Solvay Alumni Dataset are shown. The automated workflow was divided into 3 phases. Phases 0 and 1 are finished; a full documentation of the tools and methods explored and the choices’ explanation for these phases is documented in the A[ppendix](https://www.notion.so/self-containedAsset-B2B-Enrichment-V1-8561c8834bcd4267a8993c2e849f1eb5). Phase 2 is not finished but some tools and ideas are already explored, these are documented in the [Appendix](https://www.notion.so/self-containedAsset-B2B-Enrichment-V1-8561c8834bcd4267a8993c2e849f1eb5).
+Section 2 explains the main deliverables. The automated workflow and the results on the Solvay Alumni Dataset are shown. The automated workflow was divided into 3 phases. Phases 0 and 1 are finished; a full documentation of the tools and methods explored and the choices’ explanation for these phases is documented in the A[ppendix](https://www.notion.so/self-containedAsset-B2B-Enrichment-V1-8561c8834bcd4267a8993c2e849f1eb5). Phase 2 is not finished but some tools and ideas are already explored, these are documented in the [Appendix](https://www.notion.so/self-containedAsset-B2B-Enrichment-V1-8561c8834bcd4267a8993c2e849f1eb5).
 
-[Section 3](https://www.notion.so/self-containedAsset-B2B-Enrichment-V1-8561c8834bcd4267a8993c2e849f1eb5) explains in a step-by-step process how to use the B2B-Enrichment tool.
+Section 3 explains in a step-by-step process how to use the B2B-Enrichment tool.
 
-[Section 4](https://www.notion.so/self-containedAsset-B2B-Enrichment-V1-8561c8834bcd4267a8993c2e849f1eb5) explains the python scripts and the methods created in more detail.
+Section 4 explains the python scripts and the methods created in more detail.
 
 ## 1. Problem Description
 
